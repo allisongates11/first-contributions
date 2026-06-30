@@ -2152,6 +2152,7 @@ Aakash Gupta
 - [Shivam](https://github.com/AFRADOX)
 - Anurag
 - [Meghana V](https://github.com/meghana202003]) -[Rahul Majumder](https://github.com/irtrahul2007-IND)
+- [Allison Gates](https://github.com/allisongates11)
 - [Akash Khatri](https://github.com/AkashKhatri-codes)
 - [Mojtaba Zarreh](https://github.com/MojtabaZarreh)
 - [Punith](https://github.com/anjan0546)
